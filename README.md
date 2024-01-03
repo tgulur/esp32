@@ -1,2 +1,2 @@
 # esp32
-Custom ESP32 Files
+This github contains the gerber files for my custom ESP32 design, as well as the schematic, routing, and stackup.
